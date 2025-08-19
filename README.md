@@ -15,7 +15,7 @@ A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and
 
 ## 🏗️ Architecture
 
-### Backend (`nodejs-ai-assistant/`)
+### Backend (`server(nodejs)/`)
 
 - **Node.js/Express** server
 - **Stream Chat** server-side integration
@@ -23,7 +23,7 @@ A modern AI-powered chat application built with **Stream Chat**, **OpenAI**, and
 - **Tavily API** for web search functionality
 - Agent management system with automatic cleanup
 
-### Frontend (`react-stream-ai-assistant/`)
+### Frontend (`client(react)/`)
 
 - **React** with TypeScript
 - **Stream Chat React** components
